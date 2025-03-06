@@ -1,0 +1,20 @@
+﻿  源.cpp
+D:\Document\programs\Project3_Nj_Metro\源.cpp(378,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(382,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(398,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(429,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(484,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(612,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(627,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(674,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(688,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(782,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(797,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(844,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Document\programs\Project3_Nj_Metro\源.cpp(858,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 456 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project3_Nj_Metro.vcxproj -> D:\Document\programs\Project3_Nj_Metro\x64\Release\Project3_Nj_Metro.exe
